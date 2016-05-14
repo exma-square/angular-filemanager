@@ -1,6 +1,6 @@
 ## angular-filemanager
 
-### exma-square
+### exma-square update
 
 A very smart filemanager to manage your files in the browser developed in AngularJS with Material-Design styles by [Jonas Sciangula Street](https://github.com/joni2back)
 
